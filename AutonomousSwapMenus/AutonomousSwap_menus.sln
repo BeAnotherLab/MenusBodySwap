@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutonomousSwap_menus", "Assembly-CSharp.csproj", "{A9093327-8F04-6F11-B85E-45E8FA2B4F82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9093327-8F04-6F11-B85E-45E8FA2B4F82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9093327-8F04-6F11-B85E-45E8FA2B4F82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9093327-8F04-6F11-B85E-45E8FA2B4F82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9093327-8F04-6F11-B85E-45E8FA2B4F82}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
